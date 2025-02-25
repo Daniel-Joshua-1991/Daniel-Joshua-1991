@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniel-Joshua-1991
+- 👋 Hi, I’m @Daniel-Joshua
 - 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently learning ML algos
 - 📫 How to reach me daniel.joshua@avow.tech
